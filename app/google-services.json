@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "234506303158",
+    "project_id": "food-credit-1-5",
+    "storage_bucket": "food-credit-1-5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234506303158:android:55e9383f894f13cc2fd817",
+        "android_client_info": {
+          "package_name": "com.example.foodcredit15"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8lgqg3swB4p40pAnzvmA29ybT7g93jhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
