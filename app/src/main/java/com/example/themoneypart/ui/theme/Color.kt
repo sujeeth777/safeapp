@@ -1,4 +1,4 @@
-package com.example.foodcredit15.ui.theme
+package com.example.themoneypart.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Food Credit 1.5"
+rootProject.name = "themoneypart"
 include(":app")
  

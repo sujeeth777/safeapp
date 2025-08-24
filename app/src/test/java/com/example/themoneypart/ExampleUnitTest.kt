@@ -1,4 +1,4 @@
-package com.example.foodcredit15
+package com.example.themoneypart
 
 import org.junit.Test
 
